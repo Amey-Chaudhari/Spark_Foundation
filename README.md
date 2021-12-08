@@ -1,1 +1,2 @@
-# Spark_Foundation
+# GRIP spark foundation - Computer Vision And Internet of Things
+(Task 2)
