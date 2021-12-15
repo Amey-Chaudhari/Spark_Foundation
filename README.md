@@ -2,4 +2,4 @@
 (Task 2)
 Color Identification in Images
 
-Implement an image color detector which identifies the color in image or video
+Implement an image color detector which identifies all the color in image or video
